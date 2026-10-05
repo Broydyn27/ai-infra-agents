@@ -1,0 +1,5 @@
+.gemini_key
+*.key
+__pycache__/
+ai-agent-env/
+.env
